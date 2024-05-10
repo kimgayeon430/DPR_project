@@ -1,1 +1,1 @@
-# DPR_project
+# Data Pattern Recognition - Term Project
